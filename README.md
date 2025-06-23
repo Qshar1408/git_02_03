@@ -259,6 +259,10 @@ Merge branch 'git-merge'
 Successfully rebased and updated refs/heads/git-rebase
 ```
 
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_011.png)
+
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_012.png)
+
 **Шаг 7.** И попробуем выполнить `git push` либо `git push -u origin git-rebase`, чтобы точно указать, что и куда мы хотим запушить. 
 
 Эта команда завершится с ошибкой:
@@ -292,6 +296,9 @@ To github.com:andrey-borue/devops-netology.git
 Branch 'git-rebase' set up to track remote branch 'git-rebase' from 'origin'.
 ```
 
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_013.png)
+
+
 **Шаг 9**. Теперь можно смержить ветку `git-rebase` в main без конфликтов и без дополнительного мерж-комита простой перемоткой: 
 
 ```
@@ -305,6 +312,8 @@ Fast-forward
  branching/rebase.sh | 3 +--
  1 file changed, 1 insertion(+), 2 deletions(-)
 ```
+
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_014.png)
 
 *В качестве результата работы по всем заданиям приложите ссылку на .md-файл в вашем репозитории.*
  
