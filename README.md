@@ -94,6 +94,8 @@ done
 
 **Шаг 5.** Создайте коммит `merge: use shift` и отправьте изменения в репозиторий. 
 
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_006.png)
+
 #### Изменим main  
 
 **Шаг 1.** Вернитесь в ветку `main`. 
