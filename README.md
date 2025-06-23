@@ -185,6 +185,10 @@ Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
   
 ![Первый мерж](img/02.png)
 
+
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_010.png)
+
+
 #### Rebase
 
 **Шаг 1.** Перед мержем ветки `git-rebase` выполним её `rebase` на main. Да, мы специально создали ситуацию с конфликтами, чтобы потренироваться их решать. 
