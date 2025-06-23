@@ -145,6 +145,10 @@ echo "====="
 
 **Шаг 5.** И сделаем ещё один коммит `git-rebase 2` с пушем, заменив `echo "Parameter: $param"` на `echo "Next parameter: $param"`.
 
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_007.png)
+
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_008.png)
+
 #### Промежуточный итог  
 
 Мы сэмулировали типичную ситуации в разработке кода, когда команда разработчиков работала над одним и тем же участком кода, и кто-то из разработчиков 
@@ -155,6 +159,10 @@ echo "====="
 `https://github.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ/network`, будет примерно такая схема:
   
 ![Созданы обе ветки](img/01.png)
+
+
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_009.png)
+
 
 #### Merge
 
@@ -176,6 +184,10 @@ Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
 В результате получаем такую схему:
   
 ![Первый мерж](img/02.png)
+
+
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_010.png)
+
 
 #### Rebase
 
