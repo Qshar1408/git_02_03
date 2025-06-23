@@ -47,6 +47,8 @@ done
 
 ![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_001.png)
 
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_002.png)
+
 **Шаг 2.** Создадим коммит с описанием `prepare for merge and rebase` и отправим его в ветку main. 
 
 #### Подготовка файла merge.sh 
@@ -66,7 +68,14 @@ for param in "$@"; do
 done
 ```
 
-**Шаг 3.** Создайте коммит `merge: @ instead *`, отправьте изменения в репозиторий.  
+**Шаг 3.** Создайте коммит `merge: @ instead *`, отправьте изменения в репозиторий. 
+
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_003.png)
+
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_004.png)
+
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_005.png)
+
 **Шаг 4.** Разработчик подумал и решил внести ещё одно изменение в `merge.sh`:
  
 ```bash
