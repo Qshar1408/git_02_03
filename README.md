@@ -315,6 +315,8 @@ Fast-forward
 
 ![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_014.png)
 
+![git_02_03](https://github.com/Qshar1408/git_02_03/blob/main/img/git_03_015.png)
+
 *В качестве результата работы по всем заданиям приложите ссылку на .md-файл в вашем репозитории.*
  
 ----
